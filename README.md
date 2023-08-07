@@ -31,7 +31,9 @@ To check test coverage:
 npm run test-coverage
 ```
 ### Credits
-Part of the project was developed on pair programming, part was developed on single programming, where my part was to code the favorites component. Files and folders mentioned bellow were developed by the team, all other files and folders were developed by Trybe.
+
+With a team of 5 developers, part of the project was developed on pair programming, part was developed on single programming.
+My contribution was to code some functionalities like new buttons, redirections and loading a previous started recipe. Files and folders mentioned bellow were developed by the team, all other files and folders were developed by Trybe.
 
 project-recipes-app/src
     /components
