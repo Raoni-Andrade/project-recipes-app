@@ -1,4 +1,4 @@
-# Project Recipes App
+# Recipes App 🍕
 This is a web application about meals and drinks from around the world. You can search based on ingredients, name or first letters. There are video instructions on how to prepare it and you can save and favorite the ones you like.
 It was part of my Web Development course at Trybe. It was developed in a team effort and and the goal was to practice React. We choose to use function components, React Hooks and Context API. It was part of the project to write tests with React Testing Library and Jest.
 
