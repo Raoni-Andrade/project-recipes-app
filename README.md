@@ -34,7 +34,7 @@ npm run test-coverage
 <h2>:eye_speech_bubble: Preview: </h2>
 <ul>
   <li>
-    https://online-store.raonio.com.br/
+    https://recipes-app.raonio.com.br/
   </li>
 </ul>
 
