@@ -30,6 +30,14 @@ To check test coverage:
 ```
 npm run test-coverage
 ```
+
+<h2>:eye_speech_bubble: Preview: </h2>
+<ul>
+  <li>
+    https://online-store.raonio.com.br/
+  </li>
+</ul>
+
 ### Credits
 
 With a team of 5 developers, part of the project was developed on pair programming, part was developed on single programming.
